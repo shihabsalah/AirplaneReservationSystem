@@ -1,0 +1,11 @@
+Ticket,Date,Destination,Class,Price,Name,Phone,Passport
+1,6/5/2021,Cairo - Alex,Bussiness,5785,Adam,123456789,987654321
+2,6/6/2021,Cairo - Dubai,Economic,6002,Eve,123456789,987654321
+3,6/7/2021,Cairo - Beirut,Bussiness,5589,Adam,123456789,987654321
+4,6/8/2021,Cairo - Riyadh,Economic,5308,Eve,123456789,987654321
+5,6/9/2021,Cairo - London,Bussiness,8566,Adam,123456789,987654321
+6,6/10/2021,Cairo - Berlin,Economic,7286,Eve,123456789,987654321
+7,6/11/2021,Cairo - Beijing,Bussiness,9243,Adam,123456789,987654321
+8,6/12/2021,Cairo - New York,Economic,11749,Eve,123456789,987654321
+9,6/13/2021,Alex - Cairo,Bussiness,5785,Adam,123456789,987654321
+10,6/14/2021,Cairo - Dubai,Economic,5002,Eve,123456789,987654321

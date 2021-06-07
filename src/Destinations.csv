@@ -1,0 +1,73 @@
+Destination,Economy,Business
+Cairo - Alex,4785,5785
+Cairo - Dubai,5002,6002
+Cairo - Beirut,4589,5589
+Cairo - Riyadh,4308,5308
+Cairo - London,7566,8566
+Cairo - Berlin,6286,7286
+Cairo - Beijing,8243,9243
+Cairo - New York,10749,11749
+Alex - Cairo,4785,5785
+Alex - Dubai,4442,5442
+Alex - Beirut,3022,4022
+Alex - Riyadh,2327,3327
+Alex - London,3629,4629
+Alex - Berlin,3984,4984
+Alex - Beijing,8243,9243
+Alex - New York,7060,8060
+Dubai - Cairo,5002,6002
+Dubai - Alex,4442,5442
+Dubai - Beirut,4533,5533
+Dubai - Riyadh,4516,5516
+Dubai - London,4075,5075
+Dubai - Berlin,6720,7720
+Dubai - Beijing,25274,26274
+Dubai - New York,11000,12000
+Beirut - Cairo,4589,5589
+Beirut - Alex,3022,4022
+Beirut - Dubai,4533,5533
+Beirut - Riyadh,3999,4999
+Beirut - London,6729,7729
+Beirut - Berlin,4507,5507
+Beirut - Beijing,5226,6226
+Beirut - New York,9664,10664
+Riyadh - Cairo,4308,5308
+Riyadh - Alex,2327,3327
+Riyadh - Dubai,4516,5516
+Riyadh - Beirut,3999,4999
+Riyadh - London,4104,5104
+Riyadh - Berlin,3419,4419
+Riyadh - Beijing,14300,15300
+Riyadh - New York,12650,13650
+London - Cairo,7566,8566
+London - Alex,3629,4629
+London - Dubai,4075,5075
+London - Beirut,6729,7729
+London - Riyadh,4104,5104
+London - Berlin,885,1885
+London - Beijing,40927,41927
+London - New York,5977,6977
+Berlin - Cairo,6286,7286
+Berlin - Alex,3984,4984
+Berlin - Dubai,6720,7720
+Berlin - Beirut,4507,5507
+Berlin - Riyadh,3419,4419
+Berlin - London,885,1885
+Berlin - Beijing,14400,15400
+Berlin - New York,3915,4915
+Beijing - Cairo,8243,9243
+Beijing - Alex,8243,9243
+Beijing - Dubai,25274,26274
+Beijing - Beirut,5226,6226
+Beijing - Riyadh,14300,15300
+Beijing - London,40927,41927
+Beijing - Berlin,14400,15400
+Beijing - New York,7316,8316
+New York - Cairo,10749,11749
+New York - Alex,7060,8060
+New York - Dubai,11000,12000
+New York - Beirut,9664,10664
+New York - Riyadh,12650,13650
+New York - London,5977,6977
+New York - Berlin,3915,4915
+New York - Beijing,7316,8316
